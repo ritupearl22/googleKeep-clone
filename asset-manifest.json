@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/googleKeep-clone/static/css/main.6a7fe3ec.css",
+    "main.js": "/googleKeep-clone/static/js/main.203f8abe.js",
+    "static/media/logo.png": "/googleKeep-clone/static/media/logo.7ae2663001b941804595.png",
+    "index.html": "/googleKeep-clone/index.html",
+    "main.6a7fe3ec.css.map": "/googleKeep-clone/static/css/main.6a7fe3ec.css.map",
+    "main.203f8abe.js.map": "/googleKeep-clone/static/js/main.203f8abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a7fe3ec.css",
+    "static/js/main.203f8abe.js"
+  ]
+}
